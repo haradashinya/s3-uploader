@@ -10,7 +10,7 @@ Direct upload file to S3 using Node.js
  Replace PROFILE, BUCKET_NAME  with your aws profile name, bucket name.
 
 
-#### 2. Run the following command.
+#### 2. Run the following command
 
     npm install
     npm run app
