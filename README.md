@@ -7,6 +7,8 @@ Direct upload file to S3 using Node.js
 
 #### 1. Create S3 Bucket
 
+Don't forget to enable public access to bucket.
+
 
 #### 2. Edit Bucket Policy
 
